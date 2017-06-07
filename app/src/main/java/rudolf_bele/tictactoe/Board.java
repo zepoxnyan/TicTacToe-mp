@@ -1,3 +1,7 @@
+/*
+Created by Rudolf Bele
+ */
+
 package rudolf_bele.tictactoe;
 
 

@@ -1,3 +1,6 @@
+/*
+Created by Rudolf Bele
+ */
 package rudolf_bele.tictactoe;
 
 import android.support.v7.app.AppCompatActivity;

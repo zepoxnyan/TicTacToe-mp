@@ -1,3 +1,6 @@
+/*
+Created by Rudolf Bele
+ */
 package rudolf_bele.tictactoe;
 
 import android.app.AlertDialog;
