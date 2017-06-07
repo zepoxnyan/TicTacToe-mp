@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="btn1">Igra proti igralcu</string>
+    <string name="btn2">Igra proti računalniku</string>
+    <string name="btn3">O aplikaciji</string>
+    <string name="btn4">Izhod</string>
+    <string name="empty"></string>
+    <string name="p1turn">Igralec X ti si na vrsti</string>
+    <string name="cputurn">Računalnik je na vrsti</string>
+    <string name="p2turn">Igralec O ti si na vrsti</string>
+    <string name="draw">"Igra je bila izenačena!"</string>
+    <string name="alertTitle">Konec igre</string>
+    <string name="player1">Igralec X</string>
+    <string name="player2">Igralec O</string>
+    <string name="win">je zmagal.</string>
+    <string name="errorT">Napaka</string>
+    <string name="errorMsg">To polje je že zasedeno, izberi drugega.</string>
+    <string name="exitMsg">Ali res želite zapustiti igro?</string>
+    <string name="about_msg">Aplikacija ponazarja igro 3 v vrsto. Narejena je bila z namenom demonstracije pri predmetu Mobilne Platforme.\n\nIzdelal: Rudolf Bele</string>
+</resources>
